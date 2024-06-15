@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ovh32wyq4-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ovh32wyq4-python-gitops
